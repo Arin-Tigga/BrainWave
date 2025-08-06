@@ -1,3 +1,8 @@
+## <a name="introduction">🤖 Introduction</a>
+
+Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -9,9 +14,6 @@
 7. 🚀 [More](#more)
 
 
-## <a name="introduction">🤖 Introduction</a>
-
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -68,7 +70,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open https://brain-wave-orcin.vercel.app/ in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
